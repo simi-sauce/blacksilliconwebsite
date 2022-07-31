@@ -1,0 +1,316 @@
+.rap {
+  border: 4px solid black;
+  background-image: url(../assets/images/hero-bg/jin.jpg);
+}
+
+.rick {
+  display: grid;
+  gap: 2fr;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.ril {
+  background-color: black;
+}
+
+.fin {
+  text-align: center;
+}
+
+.gip {
+  background-color: black;
+}
+
+.why {
+  color: black;
+  text-align: center;
+}
+
+.hip {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding-right: 6rem;
+  padding-left: 6rem;
+}
+
+.hip h3 {
+  text-transform: uppercase;
+  font-weight: 900;
+  margin-top: 20px;
+  width: 500px;
+}
+
+.lor {
+  width: 500px;
+}
+
+.lit {
+  color: white !important;
+  text-transform: uppercase;
+}
+
+.rup {
+  text-align: center;
+  /* margin-right: 7rem; */
+  color: white !important;
+}
+
+.port {
+  background-image: url(../assets/images/vop.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white !important;
+}
+
+.jim {
+  color: white !important;
+}
+
+.jeez {
+  margin-top: -8rem;
+}
+
+.abo {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.patna {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.faq {
+  color: white !important;
+}
+
+.fam {
+  color: black !important;
+  text-align: center;
+}
+
+.fa {
+  color: black !important;
+  font-weight: bold;
+  font-size: large;
+}
+
+.simp {
+  padding-top: 15rem;
+  padding-bottom: 15rem;
+  margin-top: 2rem;
+}
+
+.mid {
+  display: grid;
+  align-items: center;
+  justify-content: end;
+  text-align: right;
+}
+
+.sub {
+  background-color: #070919 !important;
+  color: white !important;
+}
+
+.back {
+  background-color: #0f1124;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white !important;
+}
+
+.yor {
+  background-color: black;
+}
+
+.search {
+  color: white !important;
+}
+
+.vil {
+  text-transform: uppercase;
+}
+
+.cl {
+  color: white !important;
+  text-transform: uppercase;
+  font-size: large;
+  margin: 10px;
+}
+
+.num {
+  color: white !important;
+  margin: 10px;
+  font-size: 100px;
+}
+.bul {
+  color: white !important;
+  font-size: 50px;
+}
+
+.sil {
+  color: white !important;
+  line-height: 200%;
+  font-size: 20px;
+  font-weight: bold;
+  /* letter-spacing: 2px; */
+}
+
+.pass {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.miss {
+  background-color: black !important;
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
+
+.vim {
+  color: white !important;
+}
+
+.our {
+  text-align: center;
+}
+
+.line {
+  line-height: 200%;
+}
+.portfolio {
+  display: grid;
+  text-align: center;
+  justify-content: center;
+}
+.take {
+  margin-bottom: 5rem;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.mis {
+  font-size: 15px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.this {
+  background-color: black;
+}
+.svg {
+  background-color: #f4772e;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-top: 30px;
+}
+
+.whi {
+  font-weight: bold;
+  color: black !important;
+  text-align: center;
+}
+.kip {
+  padding-bottom: 2rem;
+}
+.ensure {
+  text-transform: uppercase;
+  line-height: 1.6;
+  font-size: 15px;
+  font-weight: bold;
+  color: black !important;
+  text-align: justify;
+}
+.chose {
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+}
+.ico {
+  background-color: #0f1124;
+  color: white !important;
+}
+.bg {
+  background-color: #0f1124;
+}
+.missioN {
+  background-color: #fffdf2 !important;
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+.missioN1 {
+  background-color: #fffdf2 !important;
+  height: 250px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+  align-items: center;
+  place-content: center;
+  padding-top:1rem;
+  padding-bottom:1rem;
+}
+.mis{
+  display: grid;
+  align-content: center;
+}
+.missio {
+  height: 600px;
+  display: flex;
+  align-items: center;
+  background-color: #fffdf2 !important;
+}
+.boton {
+  color: rgb(255, 255, 255) !important;
+  background-image: linear-gradient(45deg, #ffb347 0%, #ffcc33 100%) !important;
+}
+.botonoutline {
+  border-color: #ffb347;
+  /* color: #ffb347 !important; */
+  border-style: solid;
+  border-width: 1px;
+}
+.botonoutline2 {
+  border-color: #ffb347;
+  border-radius: 20px;
+  color: #ffb347 !important;
+  border-style: solid;
+  border-width: 2px;
+  height: 50px;
+}
+
+.botonoutline22 {
+  border-color: #ffb347;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 2px;
+  height: 50px;
+}
+
+.botonoutline2 :hover {
+  background-color: white !important;
+  color: white !important;
+}
+
+.thi {
+  background-color: #fffdf2 !important;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+.him {
+  background-color: #0f1124 !important;
+}
+.serv {
+  padding-bottom: 2rem;
+}
+.specialize {
+  background-color: #fff;
+}
+.gro {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+.slide{
+  height: 600px;
+}
